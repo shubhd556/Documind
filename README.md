@@ -45,8 +45,8 @@ No data leaves your browser. No subscriptions. Just pure, local power.
 * A Supabase project (for Authentication)
 
 ### 2. Installation
-* git clone [https://github.com/your-username/documind-ai.git](https://github.com/shubhd556/Documind.git)
-* cd documind-ai
+* git clone [https://github.com/your-username/Documind.git](https://github.com/shubhd556/Documind.git)
+* cd Documind
 * npm install
 
 ### 3. Environment Variables
